@@ -7,3 +7,4 @@
 - trait
 - include("phpFile.php");
 - use phpFile (eg: use Libs\Helper\Math;)
+- class autoload
